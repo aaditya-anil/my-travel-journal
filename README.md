@@ -96,8 +96,3 @@ To add new locations:
 
 1. Open the data file where the destinations are stored.
 2. Add a new object with the same structure as the existing entries.
-
-
----
-
-Feel free to replace `"./screenshot.png"` with the actual path to your screenshot image file to display it in the README. Let me know if you'd like any more details added!
