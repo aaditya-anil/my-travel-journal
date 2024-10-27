@@ -4,8 +4,6 @@ This is a simple travel journal app built with React. It displays a list of trav
 
 ## Project Overview
 
-![Screenshot](./screenshot.png) <!-- Replace with the actual image path if needed -->
-
 This app showcases a list of travel experiences, each card displaying:
 
 - The country and location name
