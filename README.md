@@ -97,9 +97,6 @@ To add new locations:
 1. Open the data file where the destinations are stored.
 2. Add a new object with the same structure as the existing entries.
 
-## License
-
-This project is open source and available under the MIT License.
 
 ---
 
